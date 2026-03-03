@@ -143,6 +143,7 @@ public class L8T1 {
         System.out.println(p2.toString());
         System.out.println(p2.calculateCost());
         System.out.println("Who will be the next CGC?");
+        System.out.println("Qahraman!?");
         System.out.println("---------------");
     }
 }
